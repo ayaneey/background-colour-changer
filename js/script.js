@@ -1,5 +1,5 @@
 const changeColor = document.getElementById("changeColor"),
-  colors = ["red", "green", "blue"];
+  colors = ["blue", "green", "purple", "pink", "red", "orange", "yellow"];
 let colorIndex = 0;
 
 changeColor.addEventListener("click", () => {
