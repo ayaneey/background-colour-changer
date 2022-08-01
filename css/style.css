@@ -1,3 +1,14 @@
 button {
-    margin-top: 50vh
+  margin-top: 50vh;
+}
+
+.title {
+  color: #6610f2;
+  border: blue;
+  border-width: 3px;
+  border-style: solid;
+  width: 400px;
+  text-align: center;
+  margin-left: 30%;
+  background: white;
 }
